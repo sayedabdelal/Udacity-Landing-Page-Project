@@ -18,7 +18,7 @@ In this project, you will build an interactive landing page for a website. The l
 
 Check out the live demo of this landing page project:
 
-[Project Demo](URL_HERE)
+[Project Demo](https://sayedabdelal.github.io/Udacity-Landing-Page-Project/)
 
 ## Project Structure
 
